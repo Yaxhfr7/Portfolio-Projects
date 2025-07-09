@@ -51,6 +51,4 @@ To analyze sales data from a global superstore and derive meaningful business in
 
 ---
 
-## 📂 Folder Structure
-
 
