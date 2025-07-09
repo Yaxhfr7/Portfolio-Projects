@@ -2,7 +2,7 @@
 
 A dynamic and interactive Power BI dashboard project built using the **Superstore Sales dataset from Kaggle**, focusing on sales performance, profit margin, and customer behavior across product categories and regions.
 
-![Dashboard Screenshot]([Super%20Store%20Sales%20Project/DashboardFiles/Super%20Store%20Sales%20Dashboard.png](https://github.com/Yaxhfr7/Portfolio-Projects/blob/main/Super%20Store%20Sales%20Project/DashboardFiles/Super%20Store%20Sales%20Dashboard.png))
+![Dashboard Screenshot](https://raw.githubusercontent.com/Yaxhfr7/Portfolio-Projects/main/Super%20Store%20Sales%20Project/DashboardFiles/Super%20Store%20Sales%20Dashboard.png)
 
 ---
 
