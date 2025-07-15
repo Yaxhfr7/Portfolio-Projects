@@ -1,9 +1,6 @@
 #  Seattle’s Airbnb Scene – Investment-Focused Analysis (2016)
 ![Airbnb Logo](https://raw.githubusercontent.com/Yaxhfr7/Portfolio-Projects/main/Seattles%27s%20Airbnb%20Analysis/airbnb.png)
 
-
-
-
 ##  Overview
 
 This project analyzes Seattle’s Airbnb dataset to uncover key patterns that can assist potential investors in identifying the most **profitable zip codes, highly recommended areas, and revenue trends over time. The insights are visualized using Tableau Public.
