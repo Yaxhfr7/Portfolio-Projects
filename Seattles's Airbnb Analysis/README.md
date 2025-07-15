@@ -1,6 +1,4 @@
 #  Seattle’s Airbnb Scene – Investment-Focused Analysis (2016)
-![Airbnb Logo](https://raw.githubusercontent.com/Yaxhfr7/Portfolio-Projects/main/Seattles%27s%20Airbnb%20Analysis/Airbnb.png)
-<img src="https://raw.githubusercontent.com/Yaxhfr7/Portfolio-Projects/main/Seattles%27s%20Airbnb%20Analysis/Airbnb.png" width="400"/>
 <img src="https://raw.githubusercontent.com/Yaxhfr7/Portfolio-Projects/main/Seattles%27s%20Airbnb%20Analysis/Airbnb.png" width="500" height="300"/>
 
 # Seattle's Airbnb Analysis
