@@ -1,4 +1,5 @@
 #  Seattle’s Airbnb Scene – Investment-Focused Analysis (2016)
+![Seattle Airbnb Dashboard](https://github.com/Yaxhfr7/Portfolio-Projects/blob/main/Seattles's%20Airbnb%20Analysis/airbnb_dashboard.png?raw=true)
 
 ##  Overview
 
