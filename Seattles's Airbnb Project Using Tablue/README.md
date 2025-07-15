@@ -1,10 +1,9 @@
 #  Seattle’s Airbnb Scene – Investment-Focused Analysis (2016)
-<img src="https://raw.githubusercontent.com/Yaxhfr7/Portfolio-Projects/main/Seattles%27s%20Airbnb%20Analysis/Airbnb.png" width="500" height="300"/>
+<img src="https://raw.githubusercontent.com/Yaxhfr7/Portfolio-Projects/main/Seattles's%20Airbnb%20Project%20Using%20Tablue/Airbnb.png" width="300" height="150">
 
 # Seattle's Airbnb Analysis
 
 Tableau dashboard project made for investors to explore pricing and trends in Seattle's Airbnb market.
-
 
 ##  Overview
 
