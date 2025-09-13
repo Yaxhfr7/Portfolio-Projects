@@ -126,5 +126,6 @@ Yash Tyagi
 Data Analyst
 Email: tyagiyaxh627@gmail.com
 
-<img src="Super Store Sales Project Using PowerBI/Dashboard Files/Super Store Sales Dashboard.png" alt="Super Store Sales Dashboard" width="700">
+![Super Store Sales Dashboard](Super%20Store%20Sales%20Project%20Using%20PowerBI/Dashboard%20Files/Super%20Store%20Sales%20Dashboard.png)
+
 
